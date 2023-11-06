@@ -1,4 +1,4 @@
-Kitchen Timer: Embedded Systems Project
+# Kitchen Timer: Embedded Systems Project
 
 Cade Thornton
 
@@ -44,27 +44,35 @@ The schematic for this design included roughly nine modules that work fit togeth
 </p>
 
 <p align="center">
-  <img src="/path/to/image" alt="img">
+  <img src="documentation/embeddedSchematic.png" alt="img">
 </p>
 
 <div align="center">
   <p style="font-size: small;">
-    Figure x (image caption)
+    Figure 2 (entire schematic PCB system)
   </p>
 </div>
 
 ### Layout 
 
+<p align="center"> 
+The layout for this design was created after finishing the schematic design. 
+</p>
+
+<p align="center">
+  <img src="documentation/embeddedLay.png" alt="img">
+</p>
+
+<div align="center">
+  <p style="font-size: small;">
+    Figure 2 (entire layout of the PCB system)
+  </p>
+</div>
+
 ------
 
 ## Arduino Code
 
-
-
--------
-
-## Conclusion
-
-------
+The code used to program the kitchen timer can be found in the /ArduinoCode folder.
 
 
